@@ -1,0 +1,1 @@
+class mySyncThread exetnds Thread{
